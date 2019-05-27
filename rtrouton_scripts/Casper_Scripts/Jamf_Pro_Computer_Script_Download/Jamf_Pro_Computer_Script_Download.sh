@@ -19,7 +19,7 @@
 # please enter the complete directory path into the ScriptDownloadDirectory
 # variable below.
 
-ScriptDownloadDirectory=""
+ScriptDownloadDirectory="/Users/pwells/Desktop/Scripts"
 
 # If the ScriptDownloadDirectory isn't specified above, a directory will be
 # created and the complete directory path displayed by the script.
